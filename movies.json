@@ -1,0 +1,23 @@
+[
+    {
+        "title": "全面啟動",
+        "director": "克里斯多福。諾蘭",
+        "genre": "科幻",
+        "year": 2010,
+        "rating": 8.8
+    },
+    {
+        "title": "教父",
+        "director": "法蘭西斯。科波拉",
+        "genre": "犯罪",
+        "year": 1972,
+        "rating": 9.2
+    },
+    {
+        "title": "駭客任務",
+        "director": "華卓斯基姐妹",
+        "genre": "科幻",
+        "year": 1999,
+        "rating": 8.7
+    }
+]
